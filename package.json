@@ -1,0 +1,12 @@
+{
+  "name": "rsp-wireguard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "createNewPeer": "sudo script/createNewPeer.sh",
+    "applyOminiRoutingConf": "sudo script/applyOmniRoutingConf.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
